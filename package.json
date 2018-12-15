@@ -13,9 +13,8 @@
   "author": "Jacob Smith <jacob.wesley.smith@gmail.com> (https://github.com/jacobsmith)",
   "license": "ISC",
   "devDependencies": {
-    "mocha": "^5.2.0"
-  },
-  "dependencies": {
+    "mocha": "^5.2.0",
     "chai": "^4.2.0"
-  }
+  },
+  "dependencies": {}
 }
