@@ -1,0 +1,21 @@
+{
+  "name": "enforce-constants",
+  "version": "0.1.0",
+  "description": "Enforce constants to be defined before access and disallow redefining them after creation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "debug-test": "mocha --inspect-brk"
+  },
+  "keywords": [
+    "constants"
+  ],
+  "author": "Jacob Smith <jacob.wesley.smith@gmail.com> (https://github.com/jacobsmith)",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "chai": "^4.2.0"
+  }
+}
