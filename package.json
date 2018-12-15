@@ -1,6 +1,6 @@
 {
   "name": "enforce-constants",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Enforce constants to be defined before access and disallow redefining them after creation.",
   "homepage": "https://github.com/jacobsmith/enforce-constants",
   "author": "Jacob Smith <jacob.wesley.smith@gmail.com> (https://github.com/jacobsmith)",
