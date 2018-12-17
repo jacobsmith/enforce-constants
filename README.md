@@ -21,5 +21,5 @@ The first argument is the object to "freeze", the second is an optional name so 
 
 After enforcing the constant access of an object, you can read any of those properties, but you cannot write new properties, update existing ones, or delete properties. It is set against future modification.
 
-I've found this approach helpful in applications that take large number of ENV vars, that interact with a 3rd party API that has field names differing from the code conventions the project uses, or really anywhere I would normally reach for an "Enum" type object.
+I've found this approach helpful in applications that take many ENV vars, that interact with a 3rd party API that has field names differing from the code conventions the project uses, or really anywhere I would normally reach for an "Enum" type object.
 
